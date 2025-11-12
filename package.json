@@ -1,6 +1,6 @@
 {
   "name": "@maxim-blankspace/react-native-printer",
-  "version": "4.3.3",
+  "version": "4.3.4",
   "description": "s",
   "source": "./src/index.tsx",
   "main": "./lib/commonjs/index.js",
